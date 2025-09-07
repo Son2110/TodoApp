@@ -42,7 +42,7 @@ const Todo = () => {
     inputRef.current.value = "";
 
     // Reset form fields
-    setSelectedTag("work");
+    setSelectedTag("Work");
     setSelectedDeadline("");
 
     //reset custom tag input
